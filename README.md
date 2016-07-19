@@ -23,7 +23,7 @@ This is a repo for a starter application for a Single Page Application featuring
 
 ## Installation
 ```
-git clone https://github.com/PM-Martin/Laravel-Angular-master.git
+git clone https://github.com/lukamarin/Laravel-Angular-master.git
 ```
 ```
 composer install --prefer-dist
